@@ -41,23 +41,5 @@ public class Workflow implements Serializable{
 	public void setiExecutionTime(int iExecutionTime) {
 		this.iExecutionTime = iExecutionTime;
 	}
-	
-	public void aa(){
-		
-	}
-	
-	public void bb(){
-		
-	}
-	
-	
-	public void cc(){
-		
-	}
-	
-	public	void dd(){
-		
-	}
-	
 
 }
